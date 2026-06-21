@@ -1,5 +1,5 @@
 <img width="789" height="417" alt="Screenshot 2026-06-14 at 11 09 34 AM" src="https://github.com/user-attachments/assets/9c23b427-d528-4d9d-b6e5-f027d4f6e09d" />
-<img width="789" height="417" alt="Screenshot 2026-06-14 at 11 09 34 AM" src="https://github.com/user-attachments/assets/fbf4d99f-bcc0-44ea-905f-89ae89584709" />
+
 # Flask App — AWS ECS Deployment
 
 A minimal Flask web application built for learning containerization and deployment to **AWS ECS (Elastic Container Service)**.
